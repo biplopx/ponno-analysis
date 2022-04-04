@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Robert",
+    "review": "Loving this laptop, capable of everything. Battery lasts around 3-4 hours, so not that much, but works for me since I almost always use it plugged. Some programming, gaming and browsing and everything 10/10. Looks beautiful as well, quite slim and light, doesnt even seem like a gaming laptop.Quite expensive though, but what you are paying is mainly the premium build quality, which is up to par with macbooks.",
+    "img": "https://preview.keenthemes.com/metronic-v4/theme/assets/pages/media/profile/profile_user.jpg",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Omar",
+    "review": "Love the laptop itself, I just find strange that no accessories, carry bag or even a gift is offered for how high the price is. This is a top of the line gaming laptop with incredible specs, which is reflected in the price and it is not normal that nothing extra is proposed with it. Happy with the product, but disappointed with the service and offer.",
+    "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8&w=1000&q=80",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Alamin",
+    "review": "Side by side, this laptop beats out our two oldests’ big desktop computers that they built solely for playing games. Before we opened it, they insisted that graphics card would not fit in a laptop and then they saw it.This is a game playing beast. None of our laptops have ever had this much power or speed, though a much smaller screen obviously. They have called this laptop maniac and insane.They went for the biggest games first -- Halo infinite runs smoothly. just about every game we tried had crazy good graphics and seamless game play To be clear, I still died constantly. I had read about an overheating issue and have a quadruple fan under it. Not sure if that will help or not but it isn’t a huge investment to make sure it keeps working.I will update this if I find other issues. Too much being amazed by it at the moment.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWHjMzM5qzBjS64SJEIyCQkLgXODzDLznFPOt54tmyPNXP3BQ78_AN83FAlbeGujmuPCg&usqp=CAU",
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "name": "john",
+    "review": "NOTE THIS IS CONSIDERED THE RAZER BLADE 15 ADVANCED EARLY 2022 MODEL. I had the current Asus Zephyrus g14 for a bit and it got very hot on idle. This Blade 15 doesn't get very warm in idle. Once you start gaming it will get hot. (It is a laptop after all). Battery use is as expected for a laptop just a few hours 2-5 depending on task. Over kill for work from home use. Tackles any game down you can throw at it. Very well built, still kinda a fingerprint magnet but very premium and elegant look. Logo does glow green only. The display is very bright and smooth at 240 hz. Keyboard is great and RGB is very memorizing. The speakers could be better but i suggest playing around with the settings or use headphones. Webcam is great for typical use 1080p @ 30 fps.",
+    "img": "https://pbs.twimg.com/profile_images/660002934780899328/0EKIaqSq_400x400.jpg",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Guillermo",
+    "review": "An excellent little laptop, but I got two small defects in a row. that's simply not acceptable when I'm paying this much money. Overall, everything is pretty good, and the internals are very powerful. It's a really nice machine. Just don't buy it from here.",
+    "img": "https://flatlogic.github.io/light-blue-vue-admin/img/a5.84f014f0.jpg",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "Nick",
+    "review": "This laptop is amazing. From the looks to how it performs. The keyboard doesn’t travel as deep when you push the keys compared to other laptops I have used. However they feel nice to type on. Also I really like the color profiles in synapse. I’m getting great battery life with power saving settings. I’m getting around 5 -6 hours. When I’m plugged into the wall and I have the fans all the way up and the cpu and gpu are on high. I was getting around 130-150 FPS in death stranding, With the settings all the way up in the game. It looked amazing and performed great. Overall, I’m happy I got this laptop.",
+    "img": "https://www.live4india.com/images/users/6.jpg",
+    "rating": 5
+  }
+]
