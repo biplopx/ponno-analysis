@@ -8,9 +8,9 @@ const Review = (props) => {
       <img className='w-24 h-24 block mx-auto rounded-full' src={img} alt="" />
       <h1 className='text-2xl text-center font-bold my-6'>{name}</h1>
       <blockquote>
-        <p className='text-lg' title={review}>"{review.length <= 257 ? review : review.slice(0, 257) + "..."}"</p>
+        <p className='text-lg' title={review}>"{review.length <= 258 ? review : review.slice(0, 257) + "..."}"</p>
       </blockquote>
-      <h4 className='text-2xl'>Rating: {rating} </h4>
+      <h4 className='text-lg mt-4 font-bold'>Rating: {rating} </h4>
     </div>
   );
 };
