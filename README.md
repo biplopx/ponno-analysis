@@ -1,10 +1,16 @@
 # Ponno Analysis - The product review and anaylsis website
 
-Live Website: [Create React App](https://github.com/facebook/create-react-app).
+Live Website: [https://ponno-analysis.netlify.app/](https://ponno-analysis.netlify.app/).
 
-## Available Scripts
+## Descriptions
 
-In the project directory, you can run:
+Ponno analysis is product review and analysis website. Here you can analysis product and gate customer reviews.
+
+# Website Features
+- React JS
+- JModern UI
+- Clean Desgin
+- Responsive Design
 
 ### `npm start`
 
