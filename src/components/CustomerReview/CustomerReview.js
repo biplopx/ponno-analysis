@@ -8,7 +8,7 @@ const CustomerReview = () => {
   const newReviews = reviews.slice(0, 3)
   return (
     <section className='py-6 px-4'>
-      <h2 className='text-3xl font-bold text-blue-600 text-center mb-5'>Customer Reviews</h2>
+      <h1 className='text-3xl font-bold text-center mb-5'>Customer Reviews</h1>
       <div className='container mx-auto'>
         <div className='grid grid-cols-1 gap-y-5 lg:grid-cols-3 lg:gap-x-5 md:gap-x-5 lg:gap-y-6'>
           {

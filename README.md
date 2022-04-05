@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Ponno Analysis - The product review and anaylsis website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Website: [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
